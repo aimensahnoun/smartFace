@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.3a92a072.chunk.css",
-    "main.js": "/static/js/main.00c7e3e5.chunk.js",
-    "main.js.map": "/static/js/main.00c7e3e5.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.dfb7685d.js",
-    "runtime-main.js.map": "/static/js/runtime-main.dfb7685d.js.map",
-    "static/css/2.3c03f26f.chunk.css": "/static/css/2.3c03f26f.chunk.css",
-    "static/js/2.fcd842a6.chunk.js": "/static/js/2.fcd842a6.chunk.js",
-    "static/js/2.fcd842a6.chunk.js.map": "/static/js/2.fcd842a6.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.0d634d7d29d66e18fed12d420b36c286.js": "/precache-manifest.0d634d7d29d66e18fed12d420b36c286.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.3c03f26f.chunk.css.map": "/static/css/2.3c03f26f.chunk.css.map",
-    "static/css/main.3a92a072.chunk.css.map": "/static/css/main.3a92a072.chunk.css.map",
-    "static/js/2.fcd842a6.chunk.js.LICENSE.txt": "/static/js/2.fcd842a6.chunk.js.LICENSE.txt",
-    "static/media/logo.png": "/static/media/logo.0521c8fd.png"
+    "main.css": "/SmartFace/static/css/main.3a92a072.chunk.css",
+    "main.js": "/SmartFace/static/js/main.dee03c1f.chunk.js",
+    "main.js.map": "/SmartFace/static/js/main.dee03c1f.chunk.js.map",
+    "runtime-main.js": "/SmartFace/static/js/runtime-main.7e066305.js",
+    "runtime-main.js.map": "/SmartFace/static/js/runtime-main.7e066305.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/SmartFace/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.fcd842a6.chunk.js": "/SmartFace/static/js/2.fcd842a6.chunk.js",
+    "static/js/2.fcd842a6.chunk.js.map": "/SmartFace/static/js/2.fcd842a6.chunk.js.map",
+    "index.html": "/SmartFace/index.html",
+    "precache-manifest.368edb01384f313df2bbdf7bd155a9fe.js": "/SmartFace/precache-manifest.368edb01384f313df2bbdf7bd155a9fe.js",
+    "service-worker.js": "/SmartFace/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/SmartFace/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.3a92a072.chunk.css.map": "/SmartFace/static/css/main.3a92a072.chunk.css.map",
+    "static/js/2.fcd842a6.chunk.js.LICENSE.txt": "/SmartFace/static/js/2.fcd842a6.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/SmartFace/static/media/logo.0521c8fd.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.dfb7685d.js",
+    "static/js/runtime-main.7e066305.js",
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.fcd842a6.chunk.js",
     "static/css/main.3a92a072.chunk.css",
-    "static/js/main.00c7e3e5.chunk.js"
+    "static/js/main.dee03c1f.chunk.js"
   ]
 }
